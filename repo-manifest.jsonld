@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/category_encoders/commit/fafdccced2c5154478a5f10cd761e138daa56d21",
       "git:hexsha": "fafdccced2c5154478a5f10cd761e138daa56d21",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.11.1"
     },
     {
