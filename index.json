@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "category_encoders",
+  "versions": [
+    {
+      "commit": "fafdccced2c5154478a5f10cd761e138daa56d21",
+      "tag": "v2.11.1",
+      "parsed_at": "2026-10-17T06:22:22.859520+00:00"
+    }
+  ]
+}
